@@ -1,0 +1,13 @@
+{
+  "telegram_api_id": "fake id",
+  "telegram_api_hash": "fake hash",
+  "channels": [
+    {
+            "source_channel_id": "maythouscalls",
+            "specific_words": [],
+            "authors": [],
+            "alias": "Maythous Calls",
+            "channel_browser_id": "-1001197297384"
+    }
+  ]
+}
