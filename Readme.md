@@ -1,6 +1,8 @@
 
 # Telegram Channel Scraper Project
 
+ Dockerized version on the way
+
 ## Project Overview
 
 This project is designed to scrape content from Telegram channels. It consists of several components:
