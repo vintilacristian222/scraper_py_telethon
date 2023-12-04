@@ -20,7 +20,7 @@ This project is designed to scrape content from Telegram channels. It consists o
 Install these libraries using pip:
 
 ```bash
-pip install streamlit telethon requests
+pip install streamlit telethon requests httpx asyncio
 ```
 
 ## Installation Instructions
