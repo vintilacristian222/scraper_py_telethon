@@ -1,7 +1,6 @@
 
 # Telegram Channel Scraper Project
-
- Dockerized version on the way
+# Dockerized project on the way
 
 ## Project Overview
 
